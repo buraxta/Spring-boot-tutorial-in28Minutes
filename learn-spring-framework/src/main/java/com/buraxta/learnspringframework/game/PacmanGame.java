@@ -1,6 +1,6 @@
 package com.buraxta.learnspringframework.game;
 
-public class MarioGame implements GamingConsole {
+public class PacmanGame implements GamingConsole {
 
     public void up() {
         System.out.println("Jump");

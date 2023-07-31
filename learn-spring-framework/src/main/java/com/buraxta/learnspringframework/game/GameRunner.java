@@ -2,8 +2,8 @@ package com.buraxta.learnspringframework.game;
 
 public class GameRunner {
 
-    MarioGame game;
-    public GameRunner(MarioGame game) {
+    GamingConsole game;
+    public GameRunner(GamingConsole game) {
         this.game = game;
     }
 
